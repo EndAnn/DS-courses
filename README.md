@@ -14,9 +14,9 @@ Each Jupyter notebook provides code samples, algorithm explanations, and model e
 
 Folders with tasks on ML models:
 
+> Neural Networks - introduction to deep learning, neural networks
+
 > models - for simple tests of different kinds of models
-> 
-> Neural networks - introduction to deep learning, neural networks 
 
 ## **Requirements**
 
@@ -29,8 +29,6 @@ Jupyter Notebook
 Python packages listed in requirements.txt
 
 ## **How to Use**
-
-How to Use
 
 Clone or download the repository to your machine.
 
